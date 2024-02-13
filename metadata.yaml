@@ -1,0 +1,37 @@
+_repo: Seuratkaamme-hanta_72858
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Weems, M. L. (Mason Locke)
+    alias: Weems, Mason Locke
+    birthdate: 1759
+    deathdate: 1825
+    gutenberg_agent_id: '442'
+    url: http://www.gutenberg.org/2009/agents/442
+    wikipedia: https://en.wikipedia.org/wiki/Mason_Locke_Weems
+creator:
+  author:
+    agent_name: Sienkiewicz, Henryk
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1052'
+    url: http://www.gutenberg.org/2009/agents/1052
+    wikipedia: https://en.wikipedia.org/wiki/Henryk_Sienkiewicz
+description: ''
+gutenberg_issued: '2024-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72858'
+language: fi
+pgterms:marc905: 20210303021811sienkiewic
+pgterms:marc906: '1902'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPori :$bOtto Andersin, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Seuratkaamme häntä!
+url: http://www.gutenberg.org/ebooks/72858
